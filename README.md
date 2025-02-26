@@ -1,7 +1,7 @@
 # Inteligencia-de-Datos
 Este repositorio está diseñado para facilitar la exploración y transformación de datos mediante tecnologías clave
 
-# 🌍 Destinos de Ensueño: Brasil, Marruecos y Mónaco
+# ✈️ Destinos de Ensueño: Brasil, Marruecos y Mónaco
 
 Bienvenidos a mi repositorio de viajes soñados. Aquí encontrarán información fascinante sobre tres increíbles países que deseo visitar: **Brasil, Marruecos y Mónaco**.✨  
 
@@ -64,7 +64,6 @@ Bienvenidos a mi repositorio de viajes soñados. Aquí encontrarán información
 
 ---
 
-💡 ¿Cuál de estos países te gustaría visitar primero? ¡Déjame tus comentarios y sugerencias! ✈️🌍  
 
 
 
