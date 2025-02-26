@@ -3,7 +3,7 @@ Este repositorio está diseñado para facilitar la exploración y transformació
 
 # 🌍 Destinos de Ensueño: Brasil, Marruecos y Mónaco
 
-Bienvenidos a mi repositorio de viajes soñados. Aquí encontrarán información fascinante sobre tres increíbles países que deseo visitar: **Brasil, Marruecos y Mónaco**. 🌎✨  
+Bienvenidos a mi repositorio de viajes soñados. Aquí encontrarán información fascinante sobre tres increíbles países que deseo visitar: **Brasil, Marruecos y Mónaco**.✨  
 
 ---
 
